@@ -1,0 +1,19 @@
+{
+  "snapshot_date": "2026-10-27",
+  "scope": "One independent LISP tool; original bytes preserved",
+  "files": [
+    {
+      "path": "lsp/H2A.lsp",
+      "bytes": 13594,
+      "sha256": "9eac707cfed05f84a1e32cbabe55ce2be1dc444255778f090f58fcf2082808e2",
+      "encoding": "utf-8",
+      "bom": false,
+      "commands": [
+        {
+          "name": "H2A",
+          "line": 1
+        }
+      ]
+    }
+  ]
+}

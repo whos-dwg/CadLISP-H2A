@@ -1,0 +1,11 @@
+[
+  {
+    "file": "lsp/H2A.lsp",
+    "commands": [
+      "H2A"
+    ],
+    "title": "填充線面積欄位與分色",
+    "category": "尺寸與註解",
+    "manual": "README.md"
+  }
+]
